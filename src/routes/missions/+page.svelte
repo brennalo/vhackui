@@ -18,8 +18,8 @@
     <div class="flex gap-10">
       <a href="#" class="hover:underline">Home</a>
       <a href="#" class="hover:underline">Profile</a>
-      <a href="#" class="hover:underline">Missions</a>
-      <a href="#" class="hover:underline">Borrowing & Lending</a>
+      <a href="/#" class="hover:underline">Missions</a>
+      <a href="/borrowing" class="hover:underline">Borrowing & Lending</a>
     </div>
     <button class="bg-yellow-500 px-4 py-2 rounded-full text-black end-full absolute right-10">Sign Up</button>
   </nav>
